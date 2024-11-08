@@ -1,18 +1,15 @@
 ### Hi, I'm Carrington (Rain) 👋
 
-I'm a software engineer working at [Acquia](https://acquia.com). I love
-all things frontend whether building stunning UI components
-or improving accessibility and user experience. Developer experience is another huge 
-passion of mine as I like to empower myself and other engineers to build excellent
-solutions with less friction. TypeScript, React, CSS, and Java are where you'll find me
-the happiest, and a little Python sprinkled here and there doesn't hurt.
+I'm a software engineer at [Acquia](https://acquia.com) with a passion for front-end development
+whether it's building stunning UI components or improving accessibility and user experience. 
+Developer experience is another key interest of mine, as I strive to empower myself and other engineers 
+to build excellent solutions with less friction. TypeScript, React, CSS, and Java are where you'll find 
+me the happiest, and a little Python thrown in for good measure.
 
-Outside of work, I'm an Arizona native who loves city life almost as
-much as I like snow in the winter. My free time consists of spending quality time with my 
-wife and dog "Beanz". I love video games and anything sports-related! I tend to travel as 
-often as I can with the hope of seeing as much of the world as possible. My recent adventures 
-have taken me to Tokyo, Japan; Maui, Hawaii; and Sinaloa, Mexico. Europe is next! 
-
+Outside of work, I'm an Arizona native who loves city life almost as much as I like snow in the winter. 
+In my free time, I spend quality moments with my wife and dog, "Beanz." I’m a fan of video games and anything 
+sports-related.  I also make it a point to travel as often as I can, hoping to see as much of the world as possible. 
+My recent adventures have taken me to Tokyo, Japan; Maui, Hawaii; and Sinaloa, Mexico. Europe is next! 
 
 ## 🔭 Recent projects
 
