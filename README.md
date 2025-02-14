@@ -14,11 +14,11 @@ My recent adventures have taken me to Tokyo, Japan; Maui, Hawaii; and Sinaloa, M
 ## 🔭 Recent projects
 
 - [TicTacToe](https://github.com/CarringtonAllison/tictactoe). A simple React app that
-  allows you to play tic tac toe. Just a fun way to learn some new technologies. 
+  allows you to play tic tac toe. A fun way to learn and play with some technologies using React, TypeScript, Vite, and Tailwind CSS.
 
 ## 🌱 I’m currently learning
 
-- [React 19](https://react.dev/). Been reading through the docs for many of
+- [React 19](https://react.dev/). I have been reading through the docs for many of
   the React canary features understanding how they can be used in the
   future.
 - [Next.js](https://nextjs.org/). Interested in some of the features Next.js offers including
