@@ -13,8 +13,9 @@ My recent adventures have taken me to Tokyo, Japan; Maui, Hawaii; and Sinaloa, M
 
 ## 🔭 Recent projects
 
-- [TicTacToe](https://github.com/CarringtonAllison/tictactoe). A simple React app that
-  allows you to play tic tac toe. A fun way to learn and play with some technologies using React, TypeScript, Vite, and Tailwind CSS.
+- [Find Your Dog](https://github.com/CarringtonAllison/FindYourDog). A web application designed to allow users to search for dogs based on various filters such as breed, age, and location. It features user authentication, the ability to mark favorite dogs, and functionality to find a match based on user preferences. The app also supports pagination and sorting of search results.
+
+- [TicTacToe](https://github.com/CarringtonAllison/tictactoe). The "Tic Tac Toe" project is a simple web-based game built with React, TypeScript, and Vite. It uses Tailwind CSS for styling and ESLint for code linting. The game allows two players to choose X or O, take turns making moves, and automatically detect if there's a winner or a draw. Players can restart the game once it's over.
 
 ## 🌱 I’m currently learning
 
